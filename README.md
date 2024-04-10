@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Siredan
+- 👋 Hi, I’m Daniel
 - 👀 I’m interested in UI/UX Design
 - 🌱 I’m currently learning Tech Writing
 - 💞️ I’m looking to collaborate on UI/UX Designs
